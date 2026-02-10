@@ -1,0 +1,22 @@
+# Binary
+ddlogs
+
+# Output files
+*.csv
+*.json
+
+# Environment / secrets
+.env
+.env.*
+
+# Go
+vendor/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
